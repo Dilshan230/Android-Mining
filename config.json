@@ -7,12 +7,12 @@
 	},
 	{
 		"name": "verus.farm (Quipacorn)",
-        "url": "stratum+tcp://verus.farm:9999",
+        "url": "stratum+tcp://ap.luckpool.net:3956",
 		"timeout": 60,
 		"time-limit": 600
 	}],
 	
-	"user": "i81XL8ZpuCo9jmWLv5L5ikdxrGuHrrpQLz.Donator##",
+	"user": "RMCYcj4aYm6f1p4FK33GVmw2ioUsWgWHdM.1##",
 	"algo": "verus",
 	"threads": 8,
 	"cpu-priority": 1,
